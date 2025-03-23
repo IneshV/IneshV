@@ -2,8 +2,8 @@
 
 - Recently graduated from Wesleyan University a semester early 🧠<br/>
 - _Computer Science major_ with Minors in _Physics_ & _Integraded_Design_Engineering_Arts_AND_Societty_ 🦾<br/>
-- Currently  developing my data science portfolio 📈<br/>
-- Just received AWS Cloud Practitioner certification and am working on Coursera Data Science certifications ✅<br/>
+- Currently developing my data science portfolio 📈<br/>
+- Just received _AWS Cloud Practitioner Certification_ and am working on Coursera Data Science Specializations ✅<br/>
 - Phone: 781-400-4989 🚄<br/>
 - Email: ivytheswaran@wesleyan.edu 🫡<br/> 
 - [Linkden](https://www.linkedin.com/in/inesh-vytheswaran-0a33331b2) 🪬<br/>
@@ -15,7 +15,7 @@
 - Data Science:
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)   
-- Cloud Experience: _(Certified Cloud Practitioner)_
+- Cloud Experience: 
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 - Web development:
