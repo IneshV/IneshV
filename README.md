@@ -1,5 +1,6 @@
 ## Hi, I'm Inesh 🪷
 
+- Currently a Masters student in Statistics at Columbia University
 - Recently graduated from Wesleyan University a semester early 🧠<br/>
 - _Computer Science_ Major with Minors in _Physics_ & _Integraded_Design_Engineering_Arts_AND_Societty_ 🦾<br/>
 - Currently developing my data science portfolio 📈<br/>
