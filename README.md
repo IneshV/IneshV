@@ -4,7 +4,7 @@
 - Recently graduated from Wesleyan University a semester early 🧠<br/>
 - _Computer Science_ Major with Minors in _Physics_ & _Integraded_Design_Engineering_Arts_AND_Societty_ 🦾<br/>
 - Currently developing my data science portfolio 📈<br/>
-- Just received _AWS Cloud Practitioner Certification_ and IBM Data Science Professional Certification ✅<br/>
+- Completed _AWS Cloud Practitioner Certification_ and IBM Data Science Professional Certification ✅<br/>
 - Phone: 781-400-4989 🚄<br/>
 - Email: ivytheswaran@wesleyan.edu 🫡<br/> 
 - [Linkden](https://www.linkedin.com/in/inesh-vytheswaran-0a33331b2) 🪬<br/>
