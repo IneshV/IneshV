@@ -1,9 +1,10 @@
 ## Hi, I'm Inesh 🪷
 
-- Currently a Masters student in Statistics at Columbia University
-- Recently graduated from Wesleyan University a semester early 🧠<br/>
+- Currently working for Cary Institue of Ecosystem Studies, and creating report on using Strava data in enhance trail visitation estimation
+- Heavily involved in Yushu Xia's Soil System Lab where I am using machine learning to create national soil carbon maps and first authoring a paper
+- Recently Completed a Masters in Statistics at Columbia University
+- Graduated from Wesleyan University a semester early 🧠<br/>
 - _Computer Science_ Major with Minors in _Physics_ & _Integraded_Design_Engineering_Arts_AND_Societty_ 🦾<br/>
-- Currently developing my data science portfolio 📈<br/>
 - Completed _AWS Cloud Practitioner Certification_ and IBM Data Science Professional Certification ✅<br/>
 - Phone: 781-400-4989 🚄<br/>
 - Email: ivytheswaran@wesleyan.edu 🫡<br/> 
